@@ -1,0 +1,88 @@
+body{
+	background-color: #c1baba;
+}
+h1{
+	font-family: 'Macondo', cursive;
+	font-size: 8em;
+	text-align: center;
+	color: #2e578c;
+}
+h2{
+	font-family: 'Macondo', cursive;
+	font-size: 5em;
+	text-align: center;
+	color: #2e578c;
+}
+
+.margin{
+    margin: 75px 25px 75px 25px;
+}
+.padding{
+	padding: 20px 45px 20px 45px;
+}
+.dashed {
+	border-style: dashed;
+	padding: 15px 35px 15px 35px;
+}
+.small {
+    line-height: 100%;
+}
+
+.big {
+    line-height: 200%;
+}
+
+.bigger-text{
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+	text-align: center;
+	color: #436a72;
+}
+.left{
+	font-size: 22px;
+	text-align: left;
+	font-family: 'Roboto Condensed', sans-serif;	
+}
+.right{
+	font-size: 25px;
+	text-align: right;
+	font-family: 'Inconsolata', monospace;
+}
+.center{
+	font-size: 32px;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: #596da0;
+}
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+}
+
+#img-right{
+    float: right;
+    margin:  0 0 10px 10px;
+}
+#img-left{
+    float: left;
+    margin: 0px 10px 10px 0px;
+}
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    border: 3px solid #2e578c;
+}
+
+
+
+
+.modal-backdrop {
+    z-index: 1030;
+    background-color: #243342;
+}
+
